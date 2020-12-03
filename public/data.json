@@ -1,0 +1,90 @@
+[
+     {
+        "address":"848 Yates Street",
+        "id":0,
+        "rent":2800,
+        "la": 48.426090,
+        "lo": -123.360220,
+        "src":"./assets/Listing0.jpg",
+        "floorPlan":"./assets/Floorplan0.jpg",
+        "subtitle":"2 Bedroom, 2 Bathroom, 1 kitchen",
+        "description":"Lorem ipsum odor amet, consectetuer adipiscing elit. Eget parturient senectus commodo litora dolor taciti augue. Molestie molestie neque viverra lacinia praesent risus quis auctor. Malesuada cursus lobortis nascetur; rutrum senectus dis tempus. Cras eu class ipsum proin platea felis torquent quam. Interdum neque aenean lacinia pulvinar ligula."
+     },
+     {
+        "address":"3990 Cydarwood St",
+        "id":1,
+        "rent":4800,
+        "la": 48.471560,
+        "lo": -123.327780,
+        "src":"./assets/Listing1.jpg",
+        "floorPlan":"./assets/Floorplan0.jpg",
+        "subtitle":"6 Bedroom, 3 Bathroom, 2 kitchen",
+        "description":"Lorem ipsum odor amet, consectetuer adipiscing elit. Eget parturient senectus commodo litora dolor taciti augue. Molestie molestie neque viverra lacinia praesent risus quis auctor. Malesuada cursus lobortis nascetur; rutrum senectus dis tempus. Cras eu class ipsum proin platea felis torquent quam. Interdum neque aenean lacinia pulvinar ligula."
+     },
+     {
+        "address":"1700 Sheridan Rd",
+        "id":2,
+        "rent":4800,
+        "la": 48.465900,
+        "lo": -123.328659,
+        "src":"./assets/Listing2.jpg",
+        "floorPlan":"./assets/Floorplan0.jpg",
+        "subtitle":"6 Bedroom, 3 Bathroom, 2 kitchen",
+        "description":"Lorem ipsum odor amet, consectetuer adipiscing elit. Eget parturient senectus commodo litora dolor taciti augue. Molestie molestie neque viverra lacinia praesent risus quis auctor. Malesuada cursus lobortis nascetur; rutrum senectus dis tempus. Cras eu class ipsum proin platea felis torquent quam. Interdum neque aenean lacinia pulvinar ligula."
+     },
+     {
+        "address":"135 Hampton Ave",
+        "id":3,
+        "rent":4800,
+        "la": 48.452860,
+        "lo": -123.386300,
+        "src":"./assets/Listing3.jpg",
+        "floorPlan":"./assets/Floorplan0.jpg",
+        "subtitle":"6 Bedroom, 3 Bathroom, 1 kitchen",
+        "description":"Lorem ipsum odor amet, consectetuer adipiscing elit. Eget parturient senectus commodo litora dolor taciti augue. Molestie molestie neque viverra lacinia praesent risus quis auctor. Malesuada cursus lobortis nascetur; rutrum senectus dis tempus. Cras eu class ipsum proin platea felis torquent quam. Interdum neque aenean lacinia pulvinar ligula."
+     },
+     {
+        "address":"8040 East Saanich Rd",
+        "id":4,
+        "rent":4800,
+        "la": 48.568990,
+        "lo": -123.400900,
+        "src":"./assets/Listing4.jpg",
+        "floorPlan":"./assets/Floorplan0.jpg",
+        "subtitle":"6 Bedroom, 3 Bathroom, 2 kitchen",
+        "description":"Lorem ipsum odor amet, consectetuer adipiscing elit. Eget parturient senectus commodo litora dolor taciti augue. Molestie molestie neque viverra lacinia praesent risus quis auctor. Malesuada cursus lobortis nascetur; rutrum senectus dis tempus. Cras eu class ipsum proin platea felis torquent quam. Interdum neque aenean lacinia pulvinar ligula."
+     },
+     {
+        "address":"1678 Freeman Ave",
+        "id":5,
+        "rent":4800,
+        "la": 48.454540,
+        "lo": -123.330429,
+        "src":"./assets/Listing5.jpg",
+        "floorPlan":"./assets/Floorplan0.jpg",
+        "subtitle":"2 Bedroom, 1 Bathroom, 1 kitchen",
+        "description":"Lorem ipsum odor amet, consectetuer adipiscing elit. Eget parturient senectus commodo litora dolor taciti augue. Molestie molestie neque viverra lacinia praesent risus quis auctor. Malesuada cursus lobortis nascetur; rutrum senectus dis tempus. Cras eu class ipsum proin platea felis torquent quam. Interdum neque aenean lacinia pulvinar ligula."
+     },
+     {
+        "address":"1742 Townley Street",
+        "id":6,
+        "rent":4800,
+        "la": 48.442340,
+        "lo": -123.331620,
+        "src":"./assets/Listing6.jpg",
+        "floorPlan":"./assets/Floorplan0.jpg",
+        "subtitle":"5 Bedroom, 2 Bathroom, 2 kitchen",
+        "description":"Lorem ipsum odor amet, consectetuer adipiscing elit. Eget parturient senectus commodo litora dolor taciti augue. Molestie molestie neque viverra lacinia praesent risus quis auctor. Malesuada cursus lobortis nascetur; rutrum senectus dis tempus. Cras eu class ipsum proin platea felis torquent quam. Interdum neque aenean lacinia pulvinar ligula."
+     },
+     {
+        "address":"2481 Trent St",
+        "id":7,
+        "rent":4800,
+        "la": 48.435000,
+        "lo": -123.323390,
+        "src":"./assets/Listing7.jpg",
+        "floorPlan":"./assets/Floorplan0.jpg",
+        "subtitle":"6 Bedroom, 3 Bathroom, 2 kitchen",
+        "description":"Lorem ipsum odor amet, consectetuer adipiscing elit. Eget parturient senectus commodo litora dolor taciti augue. Molestie molestie neque viverra lacinia praesent risus quis auctor. Malesuada cursus lobortis nascetur; rutrum senectus dis tempus. Cras eu class ipsum proin platea felis torquent quam. Interdum neque aenean lacinia pulvinar ligula."
+     }
+  ]
