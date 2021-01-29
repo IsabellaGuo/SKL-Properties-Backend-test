@@ -4,7 +4,6 @@ const server = express();
 const fs = require('fs');
 const cors = require('cors');
 
-
 const port = process.env.PORT || 3001;
 
 server.use(express.static('public'));
