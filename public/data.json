@@ -32,7 +32,7 @@
         "src":"./assets/Listing2.jpg",
         "floorPlan":"./assets/Floorplan0.jpg",
         "subtitle":"6 Bedroom, 3 Bathroom, 2 kitchen",
-        "images": "https://skl-properties.s3-us-west-2.amazonaws.com/yates848/balcony.jpeg",
+        "images": ["https://skl-properties.s3-us-west-2.amazonaws.com/yates848/balcony.jpeg", "https://skl-properties.s3-us-west-2.amazonaws.com/yates848/bathroom.jpeg"],
         "description":"Lorem ipsum odor amet, consectetuer adipiscing elit. Eget parturient senectus commodo litora dolor taciti augue. Molestie molestie neque viverra lacinia praesent risus quis auctor. Malesuada cursus lobortis nascetur; rutrum senectus dis tempus. Cras eu class ipsum proin platea felis torquent quam. Interdum neque aenean lacinia pulvinar ligula."
      },
      {
